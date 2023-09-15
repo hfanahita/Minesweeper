@@ -29,7 +29,7 @@ For example:
 
 ![image](https://github.com/hfanahita/Minesweeper/assets/42890482/dbde1a92-0a54-44c7-ba85-901cbf1b4af3)
 
-Keep in mind that you might get an `Invalid Command!` message which means you have not used the above syntax correctly:
+Keep in mind that you might get an `Invalid Command!` message if you don't use the above syntax correctly:
 
 ![image](https://github.com/hfanahita/Minesweeper/assets/42890482/0e0cd56b-5f4d-4275-959d-419d51047c03)
 
