@@ -16,6 +16,7 @@ For example, this is the outcome for the above input (It has 2 mines hidden in i
 
 
 Now, there are 4 commands one can use in this game. The general form of the commands is `[r|f|u|x] <row> <column>`.
+
 **r**: reveals a given cell
 
 **f**: puts a flag on a given cell
